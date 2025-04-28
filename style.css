@@ -29,7 +29,6 @@ text-decoration: underline;
 section {
 max-width: 800px;
 margin: 2em auto;
-padding: 1.5em;
 background-color: white;
 border-radius: 10px;
 box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
